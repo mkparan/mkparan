@@ -95,7 +95,9 @@
 
 ###
 
-<div>
-  <img src="https://github.com/sponsors/mkparan/button" title="Sponsor mkparan" height="32" width="114" style="border: 0; border-radius: 6px;"/>
+<div align="center">
+  <a href="https://github.com/sponsors/mkparan">
+    <img src="https://img.shields.io/badge/Sponsor-mkparan-ea4aaa?style=for-the-badge&logo=github" alt="Sponsor mkparan" />
+  </a>
 </div>
 ###
